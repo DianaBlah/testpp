@@ -5,5 +5,6 @@ public class Main {
 
         Calc calculator = new Calc();
         calculator.summ(2,30);
+        calculator.minus(20,1);
     }
 }
